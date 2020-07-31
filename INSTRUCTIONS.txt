@@ -1,0 +1,11 @@
+1. Open anaconda terminal and change the directory to where the the file 'requirements.txt' is located. Type the following command 
+
+pip install -r requirements.txt
+
+This will install all the necessary modules required.
+
+2. Now open Spyder or any other IDLE
+
+Run the Code.py file. Give the input CSV file name and an output excel sheet will be generated.
+
+Detailed working of the project is provided in the report.
